@@ -375,7 +375,9 @@ void Decrypt()
 		char chr = (char)(int)strtol(byte.c_str(), NULL, 16);
 		newString.push_back(chr);
 	}
-
+	
+	//Code will need to be modified to support the output of strings longer than 8 alphabetic characters. Please
+	//see the Encrypt() function to begin modifying size constraints.
 	std::cout << newString << "\n\n\n";
 }
 
