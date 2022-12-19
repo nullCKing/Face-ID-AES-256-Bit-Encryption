@@ -4,4 +4,5 @@ Using Advanced Encryption Standard / Rijndael encryption method. Supports the en
 
 ### Required external library: OpenCV
 
-![image](https://user-images.githubusercontent.com/113802864/208528570-85206867-01a9-4fd8-adb9-f0d4907e1c50.png)
+
+![SuccessCap](https://user-images.githubusercontent.com/113802864/208530034-343103d4-8559-4d14-abce-e0b7cdda7a04.PNG)
